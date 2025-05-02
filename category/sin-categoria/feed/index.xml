@@ -12,7 +12,7 @@
 	<atom:link href="https://jarias74.github.io/javiarias/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jarias74.github.io/javiarias/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 May 2025 17:54:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 15:54:32 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>¡Hola, mundo!</title>
 		<link>https://jarias74.github.io/javiarias/hola-mundo/</link>
-					<comments>https://jarias74.github.io/javiarias/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[jarias]]></dc:creator>
 		<pubDate>Thu, 01 May 2025 17:35:00 +0000</pubDate>
@@ -34,8 +33,6 @@
 <p>Primera prueba estático en github</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://jarias74.github.io/javiarias/hola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
